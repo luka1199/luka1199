@@ -4,12 +4,22 @@
 <h3>Open source projects</h3>
 <p align="center">
     <a href="https://github.com/luka1199/geo-heatmap">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=geo-heatmap" />
+    </a>
+    <a href="https://github.com/luka1199/Leaflet.AnimatedSearchBox">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=Leaflet.AnimatedSearchBox" />
+    </a>
+</p>
+<!-- Dark mode -->
+<!-- <p align="center">
+    <a href="https://github.com/luka1199/geo-heatmap">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=geo-heatmap&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=31363f" />
     </a>
     <a href="https://github.com/luka1199/Leaflet.AnimatedSearchBox">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=Leaflet.AnimatedSearchBox&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=31363f" />
     </a>
-</p>
+</p> -->
+
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
         height="40" />
@@ -42,8 +52,16 @@
 </p>
 
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html"
+        alt="luka1199" />
+</p>
+
+<!-- Dark mode -->
+<!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=31363f"
-        alt="luka1199" /></p>
+        alt="luka1199" />
+</p> -->
+
 <br>
 <p align="center">
     :mailbox: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>
