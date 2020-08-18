@@ -20,6 +20,7 @@
     </a>
 </p> -->
 
+<h3>Languages and Tools</h3>
 <p align="center">
     <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40"
         height="40" />
