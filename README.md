@@ -4,10 +4,10 @@
 <h3>Open source projects</h3>
 <p align="center">
     <a href="https://github.com/luka1199/geo-heatmap">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=geo-heatmap" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=geo-heatmap&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=31363f" />
     </a>
     <a href="https://github.com/luka1199/Leaflet.AnimatedSearchBox">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=Leaflet.AnimatedSearchBox" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=luka1199&repo=Leaflet.AnimatedSearchBox&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=31363f" />
     </a>
 </p>
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=31363f"
         alt="luka1199" /></p>
 <br>
 <p align="center">
