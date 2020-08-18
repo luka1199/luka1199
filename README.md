@@ -45,5 +45,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html"
         alt="luka1199" /></p>
 <br>
-
-:mailbox: **luka.steinbach@gmx.de**
+<p align="center">
+    :mailbox: **luka.steinbach@gmx.de**
+</p>
