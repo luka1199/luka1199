@@ -67,3 +67,8 @@
 <p align="center">
     :mailbox: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>
 </p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
