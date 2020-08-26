@@ -56,19 +56,6 @@
 </p>
 
 <!--
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html"
-        alt="luka1199" />
-</p>
--->
-
-<!-- Dark mode -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luka1199&layout=compact&hide=html&title_color=d6d8da&icon_color=d6d8da&text_color=9da5b4&bg_color=1b1e26"
-        alt="luka1199" />
-</p>
-
-<!--
 <p align="center"> 
   Visitor count<br>
   <img height="22px" src="https://profile-counter.glitch.me/luka1199/count.svg" />
