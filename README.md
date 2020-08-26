@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Luka</h1>
-<h3 align="center">A computer science student from Freiburg (Germany)</h3>
+## Hi 👋, I'm Luka
+### About Me
+
+:office: I'm currently studying Computer Science at the University of Freiburg :de:  
+:star: Favorite programming lanuage: Python :snake:  
+:mailbox: Reach me here: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a> :incoming_envelope:  
 
 <h3>Open source projects</h3>
 <p align="center">
@@ -63,10 +67,6 @@
         alt="luka1199" />
 </p> -->
 
-<br>
-<p align="center">
-    :mailbox: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>
-</p>
 
 <p align="center"> 
   Visitor count<br>
