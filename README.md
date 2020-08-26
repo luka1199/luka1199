@@ -2,8 +2,9 @@
 ### About Me
 
 - :office: I'm currently studying Computer Science at the University of Freiburg  
-- :star: Favorite programming language: :snake: Python  
-- :mailbox: Contact: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>  
+- :rocket: I'm currently working on <a href="https://map-covid19.net">Map-Covid19.net</a>
+- :star: Favorite programming language: :snake: Python
+- :mailbox: Contact: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>
 
 ### Open source projects
 <!--
