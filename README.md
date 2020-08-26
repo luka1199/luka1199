@@ -2,7 +2,7 @@
 ### About Me
 
 :office: I'm currently studying Computer Science at the University of Freiburg  
-:star: Favorite programming lanuage: Python  
+:star: Favorite programming lanuage: ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)  
 :mailbox: Reach me here: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>  
 
 <h3>Open source projects</h3>
