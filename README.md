@@ -1,9 +1,9 @@
 ## Hi 👋, I'm Luka
 ### About Me
 
-:office: I'm currently studying Computer Science at the University of Freiburg  
-:star: Favorite programming language: :snake: Python  
-:mailbox: Contact: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>  
+- :office: I'm currently studying Computer Science at the University of Freiburg  
+- :star: Favorite programming language: :snake: Python  
+- :mailbox: Contact: <a href="mailto:luka.steinbach@gmx.de">luka.steinbach@gmx.de</a>  
 
 ### Open source projects
 <!--
