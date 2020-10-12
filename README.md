@@ -53,6 +53,7 @@
 ### Libraries and Frameworks
 
 ![Flask](https://img.shields.io/badge/-Flask-1b1e26?style=flat-square&logo=Flask&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/-Vue.js-1b1e26?style=flat-square&logo=Vue.js&logoColor=FFFFFF)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-1b1e26?style=flat-square&logo=Bootstrap&logoColor=563D7C)
 ![Express](https://img.shields.io/badge/-Express-1b1e26?style=flat-square&logo=Node.js&logoColor=339933)
 ![P5.js](https://img.shields.io/badge/-P5.js-1b1e26?style=flat-square&logo=javascript&logoColor=F7DF1E)
